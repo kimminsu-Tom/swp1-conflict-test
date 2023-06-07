@@ -1,2 +1,2 @@
-kimminsu  20233132
+kimminsu    20233132
 Kookmin Univ. AI
